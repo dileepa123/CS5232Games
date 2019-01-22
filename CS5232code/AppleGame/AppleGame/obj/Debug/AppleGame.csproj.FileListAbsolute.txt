@@ -1,0 +1,6 @@
+c:\users\dileepa\documents\visual studio 2013\Projects\AppleGame\AppleGame\bin\Debug\AppleGame.exe.config
+C:\Users\Dileepa\Documents\Visual Studio 2013\Projects\AppleGame\AppleGame\obj\Debug\AppleGame.csprojResolveAssemblyReference.cache
+C:\Users\Dileepa\Documents\Visual Studio 2013\Projects\AppleGame\AppleGame\bin\Debug\AppleGame.exe
+C:\Users\Dileepa\Documents\Visual Studio 2013\Projects\AppleGame\AppleGame\bin\Debug\AppleGame.pdb
+C:\Users\Dileepa\Documents\Visual Studio 2013\Projects\AppleGame\AppleGame\obj\Debug\AppleGame.exe
+C:\Users\Dileepa\Documents\Visual Studio 2013\Projects\AppleGame\AppleGame\obj\Debug\AppleGame.pdb

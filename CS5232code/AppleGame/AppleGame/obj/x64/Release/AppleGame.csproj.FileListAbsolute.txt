@@ -1,0 +1,5 @@
+C:\Users\Dileepa\Documents\Visual Studio 2013\Projects\AppleGame\AppleGame\bin\x64\Release\AppleGame.exe.config
+C:\Users\Dileepa\Documents\Visual Studio 2013\Projects\AppleGame\AppleGame\bin\x64\Release\AppleGame.exe
+C:\Users\Dileepa\Documents\Visual Studio 2013\Projects\AppleGame\AppleGame\bin\x64\Release\AppleGame.pdb
+C:\Users\Dileepa\Documents\Visual Studio 2013\Projects\AppleGame\AppleGame\obj\x64\Release\AppleGame.exe
+C:\Users\Dileepa\Documents\Visual Studio 2013\Projects\AppleGame\AppleGame\obj\x64\Release\AppleGame.pdb
